@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Basic Data Anaylsis 
+## _Programming languages ​​and tools used_
 
-You can use the [editor on GitHub](https://github.com/JONGSEOK-git/Data_Analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jupyther-orange?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## DataFrame
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have implemented several data frames using pandas.
 
-```markdown
-Syntax highlighted code block
+```sh
+example(urls)
+explanation
+```
+## Population_Public Data
 
-# Header 1
-## Header 2
-### Header 3
+It is a visualization of the population data of public institutions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+example(urls)
+explanation
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## public transport
 
-### Jekyll Themes
+It is a visualization of public transportation data from public institutions.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JONGSEOK-git/Data_Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```sh
+example(urls)
+explanation
+```
+## temperature
 
-### Support or Contact
+It is a visualization of temperature data from public institutions.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```sh
+example(urls)
+explanation
+```
