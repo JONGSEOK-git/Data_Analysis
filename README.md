@@ -2,7 +2,9 @@
 ## _Programming languages ​​and tools used_
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jupyther-orange?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jupyter-orange?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/numpy-blue?style=flat-square&logo=Numpy&logoColor=white"/></a>
 
 
 ## DataFrame
